@@ -1,0 +1,22 @@
+{
+  "name": "@yung_samba/positive-name-generator",
+  "version": "1.0.0",
+  "description": "Randomly generate a positive adjective + noun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YungMilky/name-generator.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "Sam Herman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YungMilky/name-generator/issues"
+  },
+  "homepage": "https://github.com/YungMilky/name-generator#readme"
+}
