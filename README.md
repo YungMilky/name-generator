@@ -1,4 +1,4 @@
-﻿# name-generator
+﻿# Random name generator
 
 Randomize a positive adjective + a noun (which may or may not be positive hehe)
 
